@@ -1,0 +1,23 @@
+======================================================================
+TEST 04 - PRODUCT IMAGE CLASSIFICATION
+======================================================================
+
+User:
+Can you classify this product image?
+
+[IMAGE PROVIDED TO THE AGENT]
+
+Assistant:
+I can classify the product image using the saved product image classification model.
+
+Predicted category:
+[MODEL OUTPUT]
+
+Confidence:
+[MODEL OUTPUT]
+
+User:
+What model did you use for the classification?
+
+Assistant:
+The product image classification tool uses the saved Part 2 product-classification model.

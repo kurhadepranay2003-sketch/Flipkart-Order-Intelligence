@@ -1,0 +1,27 @@
+======================================================================
+TEST 05 - MULTI-TURN CONVERSATION STATE
+======================================================================
+
+User:
+I have an apparel order. What is the return period?
+
+Assistant:
+The return period for apparel is 30 days from delivery, subject to the applicable policy conditions.
+
+User:
+What about footwear?
+
+Assistant:
+Footwear also has a 30-day return period, subject to the applicable policy conditions.
+
+User:
+And does that same period apply to the order I mentioned first?
+
+Assistant:
+Yes. The apparel order you mentioned first falls under the apparel policy, which provides a 30-day return period subject to the applicable conditions.
+
+User:
+What category was the first order?
+
+Assistant:
+The first order you mentioned was an apparel order.

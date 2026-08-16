@@ -1,0 +1,34 @@
+======================================================================
+TEST 03 - RETURN RISK MODEL
+======================================================================
+
+User:
+Can you check the return risk for this order?
+
+Order details:
+category = Apparel
+payment_method = COD
+price_inr = 2499
+discount_pct = 20
+customer_tenure_days = 180
+num_previous_orders = 12
+num_previous_returns = 3
+delivery_distance_km = 8.5
+delivery_days = 3
+is_weekend_order = 0
+rating_given = 4
+
+Assistant:
+I can check the return risk using the saved return-risk model.
+
+Return-risk prediction:
+[MODEL OUTPUT]
+
+Risk score:
+[MODEL OUTPUT]
+
+User:
+What does that result mean?
+
+Assistant:
+The result is the prediction produced by the saved return-risk model for the order details you provided. A higher predicted risk indicates a greater likelihood of the order being returned.

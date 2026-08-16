@@ -1,0 +1,15 @@
+======================================================================
+TEST 06 - FRESH CONVERSATION
+======================================================================
+
+User:
+What category was my previous order?
+
+Assistant:
+I don't have information about a previous order in this conversation. Please provide the order details or category you want me to check.
+
+User:
+What return period applies to it?
+
+Assistant:
+I need to know the product category to determine the applicable return policy. Please provide the category or product details.

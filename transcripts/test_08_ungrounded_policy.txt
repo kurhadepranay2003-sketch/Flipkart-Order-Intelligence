@@ -1,0 +1,15 @@
+======================================================================
+TEST 08 - UNGROUNDED POLICY QUESTION
+======================================================================
+
+User:
+What is the return period for a product category that is not mentioned in your policy documents?
+
+Assistant:
+I don't have enough information in the available policy documents to provide a reliable return period for that category.
+
+User:
+Can you just guess?
+
+Assistant:
+No. I shouldn't guess or invent a return policy. I can only provide policy information that is supported by the available knowledge base.

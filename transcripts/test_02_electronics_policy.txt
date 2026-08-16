@@ -1,0 +1,15 @@
+======================================================================
+TEST 02 - ELECTRONICS RETURN POLICY
+======================================================================
+
+User:
+How long can I return an electronics product?
+
+Assistant:
+Electronics have a different return policy from apparel and footwear. The applicable electronics return period and conditions are provided in the electronics policy.
+
+User:
+Can I return electronics after the return window has expired?
+
+Assistant:
+No. A return must normally be requested within the applicable return window specified by the electronics policy. Returns outside that window are not supported unless the policy provides an applicable exception.

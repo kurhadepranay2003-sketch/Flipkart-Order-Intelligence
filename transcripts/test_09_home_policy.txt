@@ -1,0 +1,21 @@
+======================================================================
+TEST 09 - HOME POLICY
+======================================================================
+
+User:
+What is the return policy for Home products?
+
+Assistant:
+The return policy for Home products is based on the Home policy document in the knowledge base. The applicable return period and conditions should be provided according to that document.
+
+User:
+Can you tell me the exact return period?
+
+Assistant:
+[RETRIEVED HOME POLICY RETURN PERIOD]
+
+User:
+What conditions apply to the return?
+
+Assistant:
+[RETRIEVED HOME POLICY CONDITIONS]

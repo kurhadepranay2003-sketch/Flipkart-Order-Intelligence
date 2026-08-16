@@ -1,0 +1,92 @@
+[
+  {
+    "doc_id": "POL001",
+    "title": "Apparel and Footwear Return Window",
+    "category": "returns",
+    "text": "Apparel and footwear items may be returned within 7 days of delivery if they are unused and have their original tags and packaging intact. Items showing signs of use, washing, alteration, or damage caused after delivery may be rejected."
+  },
+  {
+    "doc_id": "POL002",
+    "title": "Electronics Return Window",
+    "category": "returns",
+    "text": "Eligible electronics may be returned within 10 days of delivery when the product is defective, damaged, or does not match the ordered item. Serial numbers, accessories, and original packaging should be available for verification during the return process."
+  },
+  {
+    "doc_id": "POL003",
+    "title": "Home Products Return Window",
+    "category": "returns",
+    "text": "Eligible home products may be returned within 7 days of delivery when the item is damaged, defective, or materially different from the ordered product. The item should be unused and returned with the original accessories and packaging where applicable."
+  },
+  {
+    "doc_id": "POL004",
+    "title": "Return Condition Requirements",
+    "category": "returns",
+    "text": "Returned products must generally be in an unused and resalable condition unless the return is for a manufacturing defect or transit damage. Original tags, accessories, manuals, and packaging should be retained until the return is completed."
+  },
+  {
+    "doc_id": "POL005",
+    "title": "Return Request Process",
+    "category": "returns",
+    "text": "Customers can initiate an eligible return from the order details section of the support workflow. The return request should include the applicable reason and may require photographs or other information for verification."
+  },
+  {
+    "doc_id": "POL006",
+    "title": "COD Refund Timeline",
+    "category": "refunds",
+    "text": "For eligible cash-on-delivery returns, the refund is processed after the returned product passes the required verification. Once the refund is initiated, the amount is normally credited to the customer's selected refund method within 5 to 7 business days."
+  },
+  {
+    "doc_id": "POL007",
+    "title": "Prepaid Refund Timeline",
+    "category": "refunds",
+    "text": "For eligible prepaid orders, refunds are initiated after the return or cancellation is successfully processed. Depending on the payment method and banking partner, the credit may take 3 to 7 business days after initiation."
+  },
+  {
+    "doc_id": "POL008",
+    "title": "Delivery SLA",
+    "category": "delivery",
+    "text": "Standard delivery is normally completed within the estimated delivery date shown for the order. Delivery estimates can vary based on seller location, destination, product availability, logistics conditions, and exceptional events."
+  },
+  {
+    "doc_id": "POL009",
+    "title": "Delayed Delivery",
+    "category": "delivery",
+    "text": "If an order has passed its estimated delivery date, customers should first check the latest tracking status in the order details. A support request can be raised when the shipment remains delayed beyond the displayed delivery estimate."
+  },
+  {
+    "doc_id": "POL010",
+    "title": "Reverse Pickup Eligibility",
+    "category": "reverse_pickup",
+    "text": "Reverse pickup is available for eligible return requests when the customer's address is serviceable and the product qualifies for return. Pickup availability may depend on the product category, seller rules, location, and logistics coverage."
+  },
+  {
+    "doc_id": "POL011",
+    "title": "Failed Reverse Pickup",
+    "category": "reverse_pickup",
+    "text": "If a scheduled reverse pickup fails because the customer or package is unavailable, another pickup attempt may be scheduled when logistics coverage permits. Repeated failed attempts can cause the return request to expire."
+  },
+  {
+    "doc_id": "POL012",
+    "title": "Damaged Product on Delivery",
+    "category": "returns",
+    "text": "Customers should report products that arrive visibly damaged as soon as possible through the order support workflow. Photographs of the package and product may be requested to verify transit damage."
+  },
+  {
+    "doc_id": "POL013",
+    "title": "Wrong Product Received",
+    "category": "returns",
+    "text": "If the delivered product differs from the product ordered, the customer can raise a return or replacement request when the order is eligible. The returned item should be kept with its packaging, accessories, and other supplied components."
+  },
+  {
+    "doc_id": "POL014",
+    "title": "Cancellation Before Dispatch",
+    "category": "cancellation",
+    "text": "An order may generally be cancelled before it enters the dispatch process. Once an order has been handed over for shipment, cancellation may no longer be available and the customer may need to use an eligible return process instead."
+  },
+  {
+    "doc_id": "POL015",
+    "title": "Return Pickup Packaging",
+    "category": "reverse_pickup",
+    "text": "Customers should keep the product safely packed with the required accessories and original packaging when preparing an eligible reverse pickup. The pickup agent may verify the product and package before accepting the shipment."
+  }
+]

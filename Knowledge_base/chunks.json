@@ -1,0 +1,219 @@
+[
+  {
+    "chunk_id": "POL001_CH1",
+    "policy_id": "POL001",
+    "title": "Apparel and Footwear Returns",
+    "category": "Returns",
+    "text": "Apparel and footwear can be returned within 30 days of delivery."
+  },
+  {
+    "chunk_id": "POL001_CH2",
+    "policy_id": "POL001",
+    "title": "Apparel and Footwear Returns",
+    "category": "Returns",
+    "text": "The product should be unused, unwashed, and have its original tags and packaging intact."
+  },
+  {
+    "chunk_id": "POL001_CH3",
+    "policy_id": "POL001",
+    "title": "Apparel and Footwear Returns",
+    "category": "Returns",
+    "text": "Items that show signs of use or damage caused after delivery may not be eligible for return."
+  },
+  {
+    "chunk_id": "POL002_CH1",
+    "policy_id": "POL002",
+    "title": "Electronics Returns",
+    "category": "Returns",
+    "text": "Eligible electronics can generally be returned within 10 days of delivery."
+  },
+  {
+    "chunk_id": "POL002_CH2",
+    "policy_id": "POL002",
+    "title": "Electronics Returns",
+    "category": "Returns",
+    "text": "The product should include its original accessories, manuals, packaging, and other items supplied with the product."
+  },
+  {
+    "chunk_id": "POL002_CH3",
+    "policy_id": "POL002",
+    "title": "Electronics Returns",
+    "category": "Returns",
+    "text": "Certain electronics may have replacement-only policies depending on the seller or product category."
+  },
+  {
+    "chunk_id": "POL003_CH1",
+    "policy_id": "POL003",
+    "title": "Damaged or Defective Products",
+    "category": "Returns",
+    "text": "If a product arrives damaged, defective, or different from what was ordered, the customer should report the issue as soon as possible through the order support option."
+  },
+  {
+    "chunk_id": "POL003_CH2",
+    "policy_id": "POL003",
+    "title": "Damaged or Defective Products",
+    "category": "Returns",
+    "text": "Customers may be asked to provide photographs, videos, or other information to verify the issue."
+  },
+  {
+    "chunk_id": "POL004_CH1",
+    "policy_id": "POL004",
+    "title": "Order Cancellation",
+    "category": "Cancellation",
+    "text": "An order can be cancelled before it enters the shipping process, subject to the cancellation status shown for the order."
+  },
+  {
+    "chunk_id": "POL004_CH2",
+    "policy_id": "POL004",
+    "title": "Order Cancellation",
+    "category": "Cancellation",
+    "text": "Once an order has been shipped, cancellation may no longer be available."
+  },
+  {
+    "chunk_id": "POL004_CH3",
+    "policy_id": "POL004",
+    "title": "Order Cancellation",
+    "category": "Cancellation",
+    "text": "If cancellation is unavailable after shipping, the customer may need to follow the applicable return process after delivery."
+  },
+  {
+    "chunk_id": "POL005_CH1",
+    "policy_id": "POL005",
+    "title": "Refund Processing",
+    "category": "Refunds",
+    "text": "Refunds are initiated after the returned product has been received and the return is processed successfully."
+  },
+  {
+    "chunk_id": "POL005_CH2",
+    "policy_id": "POL005",
+    "title": "Refund Processing",
+    "category": "Refunds",
+    "text": "The time taken for the refund to appear depends on the payment method and the customer's bank or payment provider."
+  },
+  {
+    "chunk_id": "POL006_CH1",
+    "policy_id": "POL006",
+    "title": "Cash on Delivery Refunds",
+    "category": "Refunds",
+    "text": "For eligible Cash on Delivery orders, refunds may require the customer to provide valid bank account or other supported payment details."
+  },
+  {
+    "chunk_id": "POL006_CH2",
+    "policy_id": "POL006",
+    "title": "Cash on Delivery Refunds",
+    "category": "Refunds",
+    "text": "The refund is processed after the return has been received and approved."
+  },
+  {
+    "chunk_id": "POL007_CH1",
+    "policy_id": "POL007",
+    "title": "Prepaid Order Refunds",
+    "category": "Refunds",
+    "text": "For eligible prepaid orders, refunds are normally processed back to the original payment method or another supported method as specified during the refund process."
+  },
+  {
+    "chunk_id": "POL007_CH2",
+    "policy_id": "POL007",
+    "title": "Prepaid Order Refunds",
+    "category": "Refunds",
+    "text": "Processing time can vary depending on the payment provider."
+  },
+  {
+    "chunk_id": "POL008_CH1",
+    "policy_id": "POL008",
+    "title": "Exchange Policy",
+    "category": "Exchange",
+    "text": "An exchange may be available for eligible products when the product, seller, and order qualify for exchange."
+  },
+  {
+    "chunk_id": "POL008_CH2",
+    "policy_id": "POL008",
+    "title": "Exchange Policy",
+    "category": "Exchange",
+    "text": "Exchange availability can depend on product category, size or variant availability, and the seller's policy."
+  },
+  {
+    "chunk_id": "POL009_CH1",
+    "policy_id": "POL009",
+    "title": "Delivery Delays",
+    "category": "Delivery",
+    "text": "Delivery dates are estimates and may change because of weather, logistics conditions, high order volumes, or other operational issues."
+  },
+  {
+    "chunk_id": "POL009_CH2",
+    "policy_id": "POL009",
+    "title": "Delivery Delays",
+    "category": "Delivery",
+    "text": "Customers can check the latest delivery status and estimated date from the order tracking page."
+  },
+  {
+    "chunk_id": "POL010_CH1",
+    "policy_id": "POL010",
+    "title": "Missing Items",
+    "category": "Order Issues",
+    "text": "If an order is delivered with an item missing, the customer should report the issue through the order support process."
+  },
+  {
+    "chunk_id": "POL010_CH2",
+    "policy_id": "POL010",
+    "title": "Missing Items",
+    "category": "Order Issues",
+    "text": "The support team may request information about the package and its contents before resolving the issue."
+  },
+  {
+    "chunk_id": "POL011_CH1",
+    "policy_id": "POL011",
+    "title": "Wrong Product Received",
+    "category": "Order Issues",
+    "text": "If the customer receives a product different from the product ordered, the issue should be reported through the order support option."
+  },
+  {
+    "chunk_id": "POL011_CH2",
+    "policy_id": "POL011",
+    "title": "Wrong Product Received",
+    "category": "Order Issues",
+    "text": "The customer may be asked to provide photographs of the product, packaging, and shipping label for verification."
+  },
+  {
+    "chunk_id": "POL012_CH1",
+    "policy_id": "POL012",
+    "title": "Return Pickup",
+    "category": "Returns",
+    "text": "For eligible returns, a return pickup may be scheduled based on the customer's location and available logistics service."
+  },
+  {
+    "chunk_id": "POL012_CH2",
+    "policy_id": "POL012",
+    "title": "Return Pickup",
+    "category": "Returns",
+    "text": "The pickup date shown in the order may change depending on courier availability and operational conditions."
+  },
+  {
+    "chunk_id": "POL013_CH1",
+    "policy_id": "POL013",
+    "title": "Non-Returnable Products",
+    "category": "Returns",
+    "text": "Some products may not be eligible for return because of their category, hygiene requirements, personalization, or seller-specific restrictions."
+  },
+  {
+    "chunk_id": "POL013_CH2",
+    "policy_id": "POL013",
+    "title": "Non-Returnable Products",
+    "category": "Returns",
+    "text": "The product page and order details should be checked to determine the applicable return eligibility."
+  },
+  {
+    "chunk_id": "POL014_CH1",
+    "policy_id": "POL014",
+    "title": "Product Eligibility for Return",
+    "category": "Returns",
+    "text": "Return eligibility depends on the product category, seller policy, condition of the product, and the return window."
+  },
+  {
+    "chunk_id": "POL014_CH2",
+    "policy_id": "POL014",
+    "title": "Product Eligibility for Return",
+    "category": "Returns",
+    "text": "Customers should check the return information displayed on the product page or order details before requesting a return."
+  }
+]

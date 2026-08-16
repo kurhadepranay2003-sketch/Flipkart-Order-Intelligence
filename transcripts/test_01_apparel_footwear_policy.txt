@@ -1,0 +1,15 @@
+======================================================================
+TEST 01 - APPAREL / FOOTWEAR RETURN POLICY
+======================================================================
+
+User:
+How long can I return apparel or footwear?
+
+Assistant:
+Apparel and footwear can be returned within 30 days of delivery, subject to the applicable return conditions in the policy.
+
+User:
+Does the same return period apply to footwear?
+
+Assistant:
+Yes. The policy specifies a 30-day return period for both apparel and footwear, subject to the applicable return conditions.
