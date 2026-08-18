@@ -1,30 +1,4 @@
-# Flipkart-Order-Intelligence
-Yes. Based on your screenshot, your **actual GitHub/repository structure is different from the earlier README**. You should not use the old `part_1/`, `part_2/`, `part_3/` structure because those folders are not what you currently have.
 
-Your current structure appears to be:
-
-```text
-Flipkart-Order-Intelligence/
-│
-├── support_agent.py
-├── part_2_train_evaluation.py
-├── part_1_train_evaluation.py
-├── generate_orders.py
-│
-├── transcripts/
-│
-├── vector_store/
-│
-├── Knowledge base/
-│
-├── data/
-│
-├── Model/
-│
-└── orders_dataset.xlsx
-```
-
-So I would update the README to match this **exact structure**.
 
 # Flipkart Order Intelligence & Support Assistant
 
